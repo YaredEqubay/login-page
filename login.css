@@ -1,0 +1,59 @@
+
+#login{
+    background-color: white;
+  padding-left: 20px;
+  padding-top: 50px;
+   width: 320px;
+   height: 400px;
+    border-radius: 5px;
+    position:absolute;
+    top: 50%;
+    left: 50%;   
+    transform: translate(-50%,-50%);
+
+}
+
+#continue{
+    background:linear-gradient(45deg, black -100%, rgb(189, 46, 94) 100% );
+    color: white;
+    width: 300px;
+    height: 40px;
+    text-align: center;
+    border: none;
+    border-radius: 4px;
+
+}
+#para{
+    padding-left: 50px;
+}
+#label{
+    font-size: 30px;
+    font-weight: bold;
+    font-family: cursive;
+
+}
+#twitter{
+    background-color: rgb(5, 178, 246);
+    color: white;
+    border-radius: 4px;
+    width: 300px;
+    height: 40px;
+    border: none;
+}
+#facebook{
+    background-color: #495896;
+    color:white;
+    width: 300px;
+    height: 40px;
+    text-align: center;
+    border-radius: 4px;
+    border: none;
+}
+input{
+    border: none;
+    border-bottom: solid 1px;
+    opacity: 1;
+}
+.lo{
+    text-decoration: underline rgb(223, 33, 36) 3px;
+}
